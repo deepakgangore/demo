@@ -1,0 +1,12 @@
+INSERT INTO "COUNTRIES" VALUES (1, 'USA');
+INSERT INTO "COUNTRIES" VALUES (2, 'France');
+INSERT INTO "COUNTRIES" VALUES (3, 'Brazil');
+INSERT INTO "COUNTRIES" VALUES (4, 'Italy');
+INSERT INTO "COUNTRIES" VALUES (5, 'Canada');
+
+
+INSERT INTO USERS VALUES (1, 'johndoe', 'password', 1);
+INSERT INTO USERS VALUES (2, 'billfrancis', 'welcome1', 1);
+INSERT INTO USERS VALUES (3, 'elonmusk', 'Xave1r', 1);
+INSERT INTO USERS VALUES (4, 'ravishastri', 'ICCT20Best', 1);
+INSERT INTO USERS VALUES (5, 'messi.l', 'bluewhite', 1);
